@@ -1,4 +1,4 @@
-# McGinty Family Tree Editor
+# Family Tree Editor
 
 This is a web-based React application for visualizing and editing the McGinty family tree.
 
