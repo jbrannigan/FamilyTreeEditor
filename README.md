@@ -14,6 +14,16 @@ This is a web-based React application for visualizing and editing the McGinty fa
 ## Getting Started
 
 1. Clone the repo:
-   ```bash
    git clone https://github.com/jbrannigan/test.git
    cd test
+2. Install dependencies:
+   npm install
+3. Start the app:
+   npm start
+Build
+To build for production:
+   npm run build
+License
+MIT
+
+This project is maintained by @jbrannigan.
