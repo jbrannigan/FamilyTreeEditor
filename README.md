@@ -1,6 +1,6 @@
 # Family Tree Editor
 
-This is a web-based React application for visualizing and editing the Family Trees.
+This is a web-based React application for visualizing and editing Family Trees.
 
 ## Features
 
