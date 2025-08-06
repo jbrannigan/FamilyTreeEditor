@@ -14,7 +14,7 @@ This is a web-based React application for visualizing and editing Family Trees.
 ## Getting Started
 
 1. Clone the repo:
-   git clone https://github.com/jbrannigan/test.git
+   git clone https://github.com/jbrannigan/FamilyTreeEditor.git
    cd test
 2. Install dependencies:
    npm install
