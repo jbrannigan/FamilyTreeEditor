@@ -1,0 +1,36 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.tree-view button {
+  font-size: 0.9em;
+  padding: 0 4px;
+}
+
+
+.editor-container {
+  display: flex;
+  gap: 20px;
+}
+
+.tree-editor textarea {
+  width: 300px;
+  height: 400px;
+}
+
+.tree-view {
+  flex: 1;
+}
+
+.button-bar {
+  margin-bottom: 10px;
+}
+
+.tree-node {
+  margin-left: 1em;
+}
+
+.tree-child {
+  margin-left: 1em;
+}
